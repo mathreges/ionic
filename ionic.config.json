@@ -1,0 +1,7 @@
+{
+  "name": "FIP",
+  "integrations": {
+    "capacitor": {}
+  },
+  "type": "angular"
+}
